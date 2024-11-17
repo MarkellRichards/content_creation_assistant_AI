@@ -64,9 +64,9 @@ Follow the instructions within the notebook to generate blog posts, social media
 
 The project is highly customizable:
 
-Templates: Modify the text templates to better fit your tone and style.
-Image Settings: Adjust image generation parameters to suit your visual content needs.
-Subclass Workflows or include nested workflows to modify blog and social media generation (For example, add additional steps for other platforms)
+- Templates: Modify the text templates to better fit your tone and style.
+- Image Settings: Adjust image generation parameters to suit your visual content needs.
+- Subclass Workflows or include nested workflows to modify blog and social media generation (For example, add additional steps for other platforms)
 
 ## Contributing
 
